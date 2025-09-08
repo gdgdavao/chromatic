@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Chromatic Logo](./public/favicon.svg)
+<img src="./public/favicon.svg" alt="Chromatic Logo" width="256" height="256" />
 
 **An interactive two-player ice-breaking game**
 
@@ -41,7 +41,6 @@
 ### Prerequisites
 
 - **Node.js** 18+ or **Bun** 1.0+
-- Modern web browser with ES2020+ support
 
 ### Installation
 
