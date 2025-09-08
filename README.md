@@ -12,7 +12,7 @@
 [![Vite](https://img.shields.io/badge/Vite-7.1.2-646CFF.svg)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.1.13-38B2AC.svg)](https://tailwindcss.com/)
 
-[🎮 Play Now](https://chromatic.gdgdavao.org) • [📖 Documentation](#documentation)
+[🎮 Play Now](https://chromatic.gdgdavao.org)
 
 </div>
 
